@@ -17,4 +17,4 @@ int main()
     person p1;
     p1.hello();
 
-}
+} 

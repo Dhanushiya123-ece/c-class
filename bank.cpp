@@ -18,7 +18,7 @@ class person{
         cout<< list_of_person[i].name<<endl;
     }
     
-    
+    person aadhar_number[5];
     aadhar_number[0].aadhar="1";
     aadhar_number[1].aadhar="2";
     aadhar_number[2].aadhar="3";
