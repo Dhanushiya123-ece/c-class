@@ -18,8 +18,7 @@ void show(A obj)
     obj.greet();
 } 
 int main(){
-    A a;
-    show(a);
+    A a; 
     return 0;
 
 }

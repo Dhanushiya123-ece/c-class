@@ -25,6 +25,6 @@ class home: public security{
 int main(){
     home h1;
     h1.cctv("INSTALLED SUCCESSFULLY!!!");
-    h1.dogs("BOW BOW!!");
+    h1.dogs("BOW BOW!!");  
     h1.security("ARRIVED!!!!");
 }

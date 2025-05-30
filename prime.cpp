@@ -22,7 +22,7 @@ int main()
     result = primechecking(num);
     if (result)
     {
-        cout << "it is prime" << endl;
+        cout << "it is prime number" << endl;
     }
     else
     {
